@@ -52,12 +52,37 @@ I enjoy turning **messy real-world data** into **reliable, explainable, and prod
 
 ---
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubham sandip kale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham sandip kale" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/platonic09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="platonic09" height="30" width="40" /></a>
-<a href="https://kaggle.com/shubham sandip kale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubham sandip kale" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/platonic009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="platonic009" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/platonic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="platonic" height="30" width="40" /></a>
+
+<p align="left" style="display:flex; gap:15px; align-items:center;">
+
+<a href="https://www.linkedin.com/in/shubham-sandip-kale-748737205" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
+</a>
+
+<a href="https://github.com/Skale3628" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
+</a>
+
+<a href="mailto:skale3628@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35"/>
+</a>
+
+<a href="https://stackoverflow.com/users/platonic09" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="35"/>
+</a>
+
+<a href="https://kaggle.com/shubham-sandip-kale" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="35"/>
+</a>
+
+<a href="https://www.leetcode.com/platonic009" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/platonic" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="35"/>
+</a>
+
 </p>
 
 ## ⚡ Technologies
